@@ -1,6 +1,6 @@
-vovels =set('aeiou')
+vowels =set('aeiou')
 word = input("Provide a word to search for vowels: ")
-found=vovels.intersection(set(word))
-for vovels in found:
-    print(vovels)
+found=vowels.intersection(set(word))
+for vowels in found:
+    print(vowels)
 

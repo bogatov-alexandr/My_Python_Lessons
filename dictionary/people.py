@@ -5,4 +5,7 @@ people['Trillian']={'Name':'Tricia McMillan','Gender':'Female','Occupation':'Mat
 people['Robot']={'Name':'Marvin','Gender':'Male','Occupation':'Paranoid Android','Home Planet':'Unknown'}
 import pprint
 
+pprint.pprint(people)
+
+print()
 print(people['Artur']['Occupation'])
