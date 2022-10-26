@@ -5,7 +5,7 @@ def search4vowels(phrase: str) -> set:
 
 def search4letters(phrase: str, letters:str='aeiou') -> set:
     """"Возвращает множество букв из "letters", найденных в указанной фразе."""
-    return print(set(letters).intersection(set(phrase)))
+    return set(letters).intersection(set(phrase))
 
 
 
