@@ -1,6 +1,0 @@
-<Request 'http://127.0.0.1:5000/search_for' [POST]> {'i', 'e'}
-<Request 'http://127.0.0.1:5000/search_for' [POST]> {'u', 'i', 'a', 'e'}
-<Request 'http://127.0.0.1:5000/search_for' [POST]> {'y', 'x'}
-<Request 'http://127.0.0.1:5000/search_for' [POST]> {'o', 'i', 'a', 'e'}
-<Request 'http://127.0.0.1:5000/search_for' [POST]> {'i', 'u', 'a', 'e'}
-<Request 'http://127.0.0.1:5000/search_for' [POST]> set()
